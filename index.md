@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to macOS Patcher
 
-You can use the [editor on GitHub](https://github.com/rusahang/macOS-Patcher/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+!["macOS Patcher."](https://github.com/rusahang/macOS-Patcher/blob/master/images/macOS-Patcher.jpg "macOS Patcher.")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Download Full Installer Database Directly from Apple!
 
-### Markdown
+## macOS 12 Monterey 12.0.1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[macOS 12 Monterey 12.0.1](https://swcdn.apple.com/content/downloads/39/60/002-23774-A_KNETE2LDIN/4ll6ahj3st7jhqfzzjt1bjp1nhwl4p4zx7/InstallAssistant.pkg).
 
-```markdown
-Syntax highlighted code block
+## macOS Big Sur 11.6.1
 
-# Header 1
-## Header 2
-### Header 3
+[macOS Big Sur 11.6.1](http://swcdn.apple.com/content/downloads/43/03/002-23589-A_JLC10H5DJX/7qxktjph49leko1s3jwaqdlh2b3uzyrlfv/InstallAssistant.pkg).
 
-- Bulleted
-- List
+### Thank You
 
-1. Numbered
-2. List
+A big thanks to [@ortania](https://github.com/rusahang/OpenCore-Legacy-Patcher).
 
-**Bold** and _Italic_ and `Code` text
+### Download
+[OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/releases).
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rusahang/macOS-Patcher/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Note: Only clean-installs and upgrades are supported, macOS Big Sur installs already patched with other patchers, such as Patched Sur or bigmac, cannot be used due to broken file integrity with APFS snapshots and SIP.
