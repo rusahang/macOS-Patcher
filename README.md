@@ -1,6 +1,9 @@
 ## Welcome to macOS Patcher
 
-!["macOS Patcher."](https://github.com/rusahang/macOS-Patcher/blob/master/images/macOS-Patcher.jpg "macOS Patcher.")
+<div align="center">
+             <img src="images/macOS-Patcher.jpg" alt="macOS Patcher" width="600" />
+             <h1>macOS Patcher</h1>
+</div>
 
 ### Download Full Installer Database Directly from Apple!
 
